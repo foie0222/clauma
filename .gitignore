@@ -1,0 +1,21 @@
+# Virtual environment
+venv/
+*.pyc
+__pycache__/
+
+# Databases
+*.db
+
+# Logs
+*.log
+
+# JSON output files (analysis results, benchmarks, etc.)
+*.json
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
