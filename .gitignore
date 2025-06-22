@@ -3,6 +3,9 @@ venv/
 *.pyc
 __pycache__/
 
+# Environment variables
+.env
+
 # Databases
 *.db
 
